@@ -1,0 +1,28 @@
+name: riccardoselvatico
+favicon: null
+layout_spectrum: 0.08383144903928041
+typography_spectrum: 0.3370699763763696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.33477403479628265
+  lightness: 0.8619259737897664
+  saturation: 0.5677139456383884
+  rhythmicContrast: 0.9266753650736064
+purpose: []
